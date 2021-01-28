@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: '__useHeader': マクロが再定義されました。
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2866): note: '__useHeader' の以前の定義を確認してください
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: '__on_failure': マクロが再定義されました。
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2876): note: '__on_failure' の以前の定義を確認してください
+  KinectGame.vcxproj -> F:\KinectGame\Debug\KinectGame.exe
+  KinectGame.vcxproj -> F:\KinectGame\Debug\KinectGame.pdb (Partial PDB)
